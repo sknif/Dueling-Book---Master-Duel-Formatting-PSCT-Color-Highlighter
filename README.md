@@ -6,4 +6,8 @@ How To Install:
 2. Download the script or copy its content.
 3. In the Tempermonkey Dashboard click on Utilities and import the script or make a new one and replace the text with the one you copied.
 
-![Yu-Gi-Oh! card text with PSCT Highlighter](<both on.PNG>)
+<p align="center">
+  <img src="both%20on.PNG" alt="Highlighting and spacing enabled" width="32%">
+  <img src="Highlighting.PNG" alt="Highlighting example" width="32%">
+  <img src="Spacing.PNG" alt="Spacing example" width="32%">
+</p>
