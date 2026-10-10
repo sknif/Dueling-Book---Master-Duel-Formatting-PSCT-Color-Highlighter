@@ -1,5 +1,5 @@
 # Dueling-Book---Master-Duel-Formatting-PSCT-Color-Highlighter
-a Tempermonkey script that adds Master Duel like formatting and a PSCT color highlighter to Dueling Book. The script adds buttons in the bottom right corner to disable either of these functions.
+A Tempermonkey script that adds Master Duel like formatting and a PSCT color highlighter to Dueling Book. The script adds buttons in the bottom right corner to disable either of these functions.
 
 How To Install:
 1. Install Tampermonkey
