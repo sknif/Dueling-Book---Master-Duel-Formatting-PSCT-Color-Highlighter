@@ -6,4 +6,4 @@ How To Install:
 2. Download the script or copy its content.
 3. In the Tempermonkey Dashboard click on Utilities and import the script or make a new one and replace the text with the one you copied.
 
-![Yu-Gi-Oh! card text with PSCT Highlighter](both on.PNG)
+![Yu-Gi-Oh! card text with PSCT Highlighter](<both on.PNG>)
