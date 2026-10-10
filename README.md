@@ -4,7 +4,7 @@ A Tampermonkey script that adds Master Duel like formatting and a PSCT color hig
 How To Install:
 1. Install Tampermonkey
 2. Download the script or copy its content.
-3. In the Tempermonkey Dashboard click on Utilities and import the script or make a new one and replace the text with the one you copied.
+3. In the Tampermonkey Dashboard click on Utilities and import the script or make a new one and replace the text with the one you copied.
 
 <p align="center">
   <img src="images\both%20on.PNG" alt="Highlighting and spacing enabled" width="32%">
