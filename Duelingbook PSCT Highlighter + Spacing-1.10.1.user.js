@@ -38,7 +38,8 @@
     // Add more words to the list if other cards need them.
     const LABEL_RE = new RegExp(
         '^\\s*(?:' +
-        '(?:[●•▪‣◦⁃]\\s*)?\\d+\\+?' +
+        '(?:[●•▪‣◦⁃]\\s*)?\\d+' +
+        '(?:\\s*(?:to|-|–|~)\\s*\\d+|\\+|\\s+or\\s+(?:more|less|fewer))?' +
         '|' +
         '[●•▪‣◦⁃]\\s*(?:Monster|Spell|Trap|Heads|Tails)(?: Card)?' +
         ')\\s*:\\s*'
